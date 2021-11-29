@@ -1,0 +1,25 @@
+{
+  "items": [
+    {
+      "name": "tim",
+      "price": "499",
+      "type": "peson",
+      "brand": "test",
+      "id": 1
+    },
+    {
+      "name": "",
+      "price": 0,
+      "type": "",
+      "brand": "",
+      "id": 3
+    },
+    {
+      "name": "",
+      "price": 0,
+      "type": "",
+      "brand": "",
+      "id": 4
+    }
+  ]
+}
